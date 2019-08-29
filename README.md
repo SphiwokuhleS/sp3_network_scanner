@@ -1,4 +1,4 @@
-# sp3_network_scanner:grin:
+# sp3_network_scanner :grin:
 This a simple network scanner that runs on linux.. not much else i could say :smirk:
 
 ## Before you run:
